@@ -1,0 +1,5 @@
+c:\users\umuth\documents\visual studio 2017\Projects\FTP-Yöneticisi\FTP-Yöneticisi\bin\Debug\FTP-Yöneticisi.dll
+c:\users\umuth\documents\visual studio 2017\Projects\FTP-Yöneticisi\FTP-Yöneticisi\bin\Debug\FTP-Yöneticisi.pdb
+c:\users\umuth\documents\visual studio 2017\Projects\FTP-Yöneticisi\FTP-Yöneticisi\obj\Debug\FTP-Yöneticisi.dll
+c:\users\umuth\documents\visual studio 2017\Projects\FTP-Yöneticisi\FTP-Yöneticisi\obj\Debug\FTP-Yöneticisi.pdb
+C:\Users\umuth\documents\visual studio 2017\Projects\FTP-Yöneticisi\FTP-Yöneticisi\obj\Debug\FTP-Yöneticisi.csprojResolveAssemblyReference.cache
